@@ -4,10 +4,10 @@ Unofficial Python integrations for Aesthetic Record.
 
 ## Integrations
 
-- `aesthetic_record_get_appointments.py` - `get_appointments` (28,543 live events).
-- `aesthetic_record_list_patients.py` - `list_patients` (28,374 live events).
-- `aesthetic_record_get_patient_details.py` - `get_patient_details` (13,877 live events).
-- `aesthetic_record_list_invoices.py` - `list_invoices` (2,552 live events).
+- `aesthetic_record_get_appointments.py` - `get_appointments`.
+- `aesthetic_record_list_patients.py` - `list_patients`.
+- `aesthetic_record_get_patient_details.py` - `get_patient_details`.
+- `aesthetic_record_list_invoices.py` - `list_invoices`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
