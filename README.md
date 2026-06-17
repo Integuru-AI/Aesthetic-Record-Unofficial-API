@@ -4,10 +4,10 @@ Unofficial Python integrations for Aesthetic Record.
 
 ## Integrations
 
-- `aesthetic_record_get_appointments.py` - `get_appointments` (28,543 live events).
-- `aesthetic_record_list_patients.py` - `list_patients` (28,374 live events).
-- `aesthetic_record_get_patient_details.py` - `get_patient_details` (13,877 live events).
-- `aesthetic_record_list_invoices.py` - `list_invoices` (2,552 live events).
+- `aesthetic_record_get_appointments.py` - `get_appointments`.
+- `aesthetic_record_list_patients.py` - `list_patients`.
+- `aesthetic_record_get_patient_details.py` - `get_patient_details`.
+- `aesthetic_record_list_invoices.py` - `list_invoices`.
 
 ## Usage
 
